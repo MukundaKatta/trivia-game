@@ -68,6 +68,3 @@ packages/
 └── shared/               # Shared TypeScript types
 ```
 
-## License
-
-MIT
